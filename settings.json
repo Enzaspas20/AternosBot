@@ -8,7 +8,7 @@
   "server": {
     "ip": "EnzzoRG.aternos.me",
     "port": 23195,
-    "version": "1.20.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
