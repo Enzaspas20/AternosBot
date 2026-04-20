@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Romi",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "EnzzoRG.aternos.me",
